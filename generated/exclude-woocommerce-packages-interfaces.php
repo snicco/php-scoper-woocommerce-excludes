@@ -1,0 +1,15 @@
+<?php return array (
+  0 => 'ActionScheduler_Exception',
+  1 => 'ActionScheduler_Schedule',
+  2 => 'Automattic\\WooCommerce\\Admin\\API\\Reports\\ExportableInterface',
+  3 => 'Automattic\\WooCommerce\\Admin\\API\\Reports\\DataStoreInterface',
+  4 => 'Automattic\\WooCommerce\\Admin\\DateTimeProvider\\DateTimeProviderInterface',
+  5 => 'Automattic\\WooCommerce\\Admin\\PluginsProvider\\PluginsProviderInterface',
+  6 => 'Automattic\\WooCommerce\\Admin\\RemoteInboxNotifications\\RuleProcessorInterface',
+  7 => 'Automattic\\WooCommerce\\Admin\\RemoteInboxNotifications\\TransformerInterface',
+  8 => 'Automattic\\WooCommerce\\Admin\\Schedulers\\ImportInterface',
+  9 => 'Automattic\\WooCommerce\\Blocks\\Integrations\\IntegrationInterface',
+  10 => 'Automattic\\WooCommerce\\Blocks\\Payments\\PaymentMethodTypeInterface',
+  11 => 'Automattic\\WooCommerce\\Blocks\\StoreApi\\Formatters\\FormatterInterface',
+  12 => 'Automattic\\WooCommerce\\Blocks\\StoreApi\\Routes\\RouteInterface',
+);
